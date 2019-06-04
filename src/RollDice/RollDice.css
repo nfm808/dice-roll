@@ -1,0 +1,19 @@
+.RollDice {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  justify-content: center;
+}
+.RollDice-Die {
+  margin: 20px;
+  padding: 10px;
+}
+
+.RollDice-button {
+  line-height: 20px;
+  background: lightseagreen;
+  color: white;
+  width: 100px;
+  margin: 0 auto;
+  border-radius: 3px;
+}
